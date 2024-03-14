@@ -1,5 +1,5 @@
 {
-  "name": "responsejsonformatter",
+  "name": "responseformatjson",
   "version": "0.1.0",
   "module": "commonjs",
   "description": "The ResponseFormatter package provides a convenient way to format success and error responses in Node.js applications",
