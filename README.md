@@ -2,6 +2,8 @@
 
 The ResponseFormatter package provides a convenient way to format success and error responses in Node.js applications. It simplifies the process of generating JSON responses with standardized meta information such as status, message, and data.
 
+its include time using `dformater` package that can help convert current date or request date response into `d M Y` format.
+
 ## Installation
 
 You can install ResponseFormatter via npm or yarn:
