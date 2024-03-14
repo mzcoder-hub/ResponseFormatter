@@ -1,0 +1,35 @@
+{
+  "name": "responseformatter",
+  "version": "0.1.0",
+  "module": "commonjs",
+  "description": "The ResponseFormatter package provides a convenient way to format success and error responses in Node.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzcoder-hub/ResponseFormatter.git"
+  },
+  "keywords": [
+    "response",
+    "formatter",
+    "JSON",
+    "API",
+    "format",
+    "utility",
+    "helper",
+    "REST",
+    "HTTP"
+  ],
+  "author": "MzCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzcoder-hub/ResponseFormatter/issues"
+  },
+  "homepage": "https://github.com/mzcoder-hub/ResponseFormatter#readme",
+  "dependencies": {
+    "dformater": "^1.1.1",
+    "jest": "^29.7.0"
+  }
+}
