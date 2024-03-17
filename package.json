@@ -1,6 +1,6 @@
 {
   "name": "responseformatjson",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "module": "commonjs",
   "description": "The responseformatjson package provides a convenient way to format success and error responses in Node.js applications",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mzcoder-hub/ResponseFormatter.git"
+    "url": "https://github.com/mzcoder-hub/ResponseFormatter.git"
   },
   "keywords": [
     "response",
