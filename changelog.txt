@@ -1,0 +1,3 @@
+- update 22/03/2024
+-- add authError Function for specific authentication error
+-- add changelog file for better understanding the update

@@ -21,6 +21,18 @@ class ResponseFormatter {
     };
   }
 
+  static authError(data = null, message = null, code = 401) {
+    return {
+      meta: {
+        code,
+        status: "error_authentication",
+        message,
+      },
+      data,
+      date: formatDate(new Date()),
+    };
+  }
+
   /**
    * Give error response.
    */
